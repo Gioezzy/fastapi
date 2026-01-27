@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+.env
+*.pth
+*.zip
+!model.pth/songket_model.pth.zip
+.DS_Store
